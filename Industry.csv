@@ -1,0 +1,186 @@
+Id,Code,Name,Level,Parent_id
+1,1,Oil & Gas,0,NULL
+2,1000,Basic Materials,0,NULL
+3,2000,Industrials,0,NULL
+4,3000,Consumer Goods,0,NULL
+5,4000,Health Care,0,NULL
+6,5000,Consumer Services,0,NULL
+7,6000,Telecommunications,0,NULL
+8,7000,Utilities,0,NULL
+9,8000,Financials,0,NULL
+10,9000,Technology,0,NULL
+11,500,Oil & Gas,1,1
+12,1300,Chemicals,1,2
+13,1700,Basic Resources,1,2
+14,2300,Construction & Materials,1,3
+15,2700,Industrial Goods & Services,1,3
+16,3300,Automobiles & Parts,1,4
+17,3500,Food & Beverage,1,4
+18,3700,Personal & Household Goods,1,4
+19,4500,Health Care,1,5
+20,5300,Retail,1,6
+21,5500,Media,1,6
+22,5700,Travel & Leisure,1,6
+23,6500,Telecommunications,1,7
+24,7500,Utilities,1,8
+25,8300,Banks,1,9
+26,8500,Insurance,1,9
+27,8600,Real Estate,1,9
+28,8700,Financial Services,1,9
+29,8900,Equity/Non-Equity Investment Instruments,1,9
+30,9500,Technology,1,10
+31,530,Oil & Gas Producers,2,11
+32,570,"Oil Equipment, Services & Distribution",2,11
+33,580,Alternative Energy,2,11
+34,1350,Chemicals,2,12
+35,1730,Forestry & Paper,2,13
+36,1750,Industrial Metals & Mining,2,13
+37,1770,Mining,2,13
+38,2350,Construction & Materials,2,14
+39,2710,Aerospace & Defense,2,15
+40,2720,General Industrials,2,15
+41,2730,Electronic & Electrical Equipment,2,15
+42,2750,Industrial Engineering,2,15
+43,2770,Industrial Transportation,2,15
+44,2790,Support Services,2,15
+45,3350,Automobiles & Parts,2,16
+46,3530,Beverages,2,17
+47,3570,Food Producers,2,17
+48,3720,Household Goods & Home Construction,2,18
+49,3740,Leisure Goods,2,18
+50,3760,Personal Goods,2,18
+51,3780,Tobacco,2,18
+52,4530,Health Care Equipment & Services,2,19
+53,4570,Pharmaceuticals & Biotechnology,2,19
+54,5330,Food & Drug Retailers,2,20
+55,5370,General Retailers,2,20
+56,5550,Media,2,21
+57,5750,Travel & Leisure,2,22
+58,6530,Fixed Line Telecommunications,2,23
+59,6570,Mobile Telecommunications,2,23
+60,7530,Electricity,2,24
+61,7570,"Gas, Water & Multiutilities",2,24
+62,8350,Banks,2,25
+63,8530,Nonlife Insurance,2,26
+64,8570,Life Insurance,2,26
+65,8630,Real Estate Investment & Services,2,27
+66,8670,Real Estate Investment Trusts,2,27
+67,8770,Financial Services,2,28
+68,8980,Equity Investment Instruments,2,29
+69,8990,Nonequity Investment Instruments,2,29
+70,9530,Software & Computer Services,2,30
+71,9570,Technology Hardware & Equipment,2,30
+72,533,Exploration & Production,3,31
+73,537,Integrated Oil & Gas,3,31
+74,573,Oil Equipment & Services,3,32
+75,577,Pipelines,3,32
+76,583,Renewable Energy Equipment,3,33
+77,587,Alternative Fuels,3,33
+78,1353,Commodity Chemicals,3,34
+79,1357,Specialty Chemicals,3,34
+80,1733,Forestry,3,35
+81,1737,Paper,3,35
+82,1753,Aluminum,3,36
+83,1755,Nonferrous Metals,3,36
+84,1757,Iron & Steel,3,36
+85,1771,Coal,3,37
+86,1773,Diamonds & Gemstones,3,37
+87,1775,General Mining,3,37
+88,1777,Gold Mining,3,37
+89,1779,Platinum & Precious Metals,3,37
+90,2353,Building Materials & Fixtures,3,38
+91,2357,Heavy Construction,3,38
+92,2713,Aerospace,3,39
+93,2717,Defense,3,39
+94,2723,Containers & Packaging,3,40
+95,2727,Diversified Industrials,3,40
+96,2733,Electrical Components & Equipment,3,41
+97,2737,Electronic Equipment,3,41
+98,2753,Commercial Vehicles & Trucks,3,42
+99,2757,Industrial Machinery,3,42
+100,2771,Delivery Services,3,43
+101,2773,Marine Transportation,3,43
+102,2775,Railroads,3,43
+103,2777,Transportation Services,3,43
+104,2779,Trucking,3,43
+105,2791,Business Support Services,3,44
+106,2793,Business Training & Employment Agencies,3,44
+107,2795,Financial Administration,3,44
+108,2797,Industrial Suppliers,3,44
+109,2799,Waste & Disposal Services,3,44
+110,3353,Automobiles,3,45
+111,3355,Auto Parts,3,45
+112,3357,Tires,3,45
+113,3533,Brewers,3,46
+114,3535,Distillers & Vintners,3,46
+115,3537,Soft Drinks,3,46
+116,3573,Farming & Fishing,3,47
+117,3577,Food Products,3,47
+118,3722,Durable Household Products,3,48
+119,3724,Nondurable Household Products,3,48
+120,3726,Furnishings,3,48
+121,3728,Home Construction,3,48
+122,3743,Consumer Electronics,3,49
+123,3745,Recreational Products,3,49
+124,3747,Toys,3,49
+125,3763,Clothing & Accessories,3,50
+126,3765,Footwear,3,50
+127,3767,Personal Products,3,50
+128,3785,Tobacco,3,51
+129,4533,Health Care Providers,3,52
+130,4535,Medical Equipment,3,52
+131,4537,Medical Supplies,3,52
+132,4573,Biotechnology,3,53
+133,4577,Pharmaceuticals,3,53
+134,5333,Drug Retailers,3,54
+135,5337,Food Retailers & Wholesalers,3,54
+136,5371,Apparel Retailers,3,55
+137,5373,Broadline Retailers,3,55
+138,5375,Home Improvement Retailers,3,55
+139,5377,Specialized Consumer Services,3,55
+140,5379,Specialty Retailers,3,55
+141,5553,Broadcasting & Entertainment,3,56
+142,5555,Media Agencies,3,56
+143,5557,Publishing,3,56
+144,5751,Airlines,3,57
+145,5752,Gambling,3,57
+146,5753,Hotels,3,57
+147,5755,Recreational Services,3,57
+148,5757,Restaurants & Bars,3,57
+149,5759,Travel & Tourism,3,57
+150,6535,Fixed Line Telecommunications,3,58
+151,6575,Mobile Telecommunications,3,59
+152,7535,Conventional Electricity,3,60
+153,7537,Alternative Electricity,3,60
+154,7573,Gas Distribution,3,61
+155,7575,Multiutilities,3,61
+156,7577,Water,3,61
+157,8355,Banks,3,62
+158,8532,Full Line Insurance,3,63
+159,8534,Insurance Brokers,3,63
+160,8536,Property & Casualty Insurance,3,63
+161,8538,Reinsurance,3,63
+162,8575,Life Insurance,3,64
+163,8633,Real Estate Holding & Development,3,65
+164,8637,Real Estate Services,3,65
+165,8671,Industrial & Office REITs,3,66
+166,8672,Retail REITs,3,66
+167,8673,Residential REITs,3,66
+168,8674,Diversified REITs,3,66
+169,8675,Specialty REITs,3,66
+170,8676,Mortgage REITs,3,66
+171,8677,Hotel & Lodging REITs,3,66
+172,8771,Asset Managers,3,67
+173,8773,Consumer Finance,3,67
+174,8775,Specialty Finance,3,67
+175,8777,Investment Services,3,67
+176,8779,Mortgage Finance,3,67
+177,8985,Equity Investment Instruments,3,68
+178,8995,Nonequity Investment Instruments,3,69
+179,9533,Computer Services,3,70
+180,9535,Internet,3,70
+181,9537,Software,3,70
+182,9572,Computer Hardware,3,71
+183,9574,Electronic Office Equipment,3,71
+184,9576,Semiconductors,3,71
+185,9578,Telecommunications Equipment,3,71
